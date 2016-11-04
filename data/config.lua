@@ -19,7 +19,7 @@ do local _ = {
 "ar-lock-bot", 
 "ar-lock-ffwd", 
 "ar-map",  
-"ar-superrgroup",  
+"ar-superrgroup (1)",  
 "ar-weather",  
 "arabic_lock",  
 "auto_run",  
@@ -32,8 +32,7 @@ do local _ = {
 "echo", 
 "filter",  
 "get",  
-"help",  
-"help2",  
+"help",   
 "helps.pv",  
 "image23", 
 "infoeng",  
@@ -82,8 +81,10 @@ do local _ = {
 "weather", 
 "welecam",  
 "whitelist", 
-"writer"
-
+"writer",
+"weather",
+"ar-h4",
+"car"  
   },
   help_text = "",
   help_text_realm = "",
